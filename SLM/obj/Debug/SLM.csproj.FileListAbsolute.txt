@@ -1,0 +1,32 @@
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\bin\Debug\SLM.exe.config
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\bin\Debug\SLM.exe
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\bin\Debug\SLM.pdb
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\obj\Debug\SLM.csprojAssemblyReference.cache
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\obj\Debug\SLM.Form1.resources
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\obj\Debug\SLM.Properties.Resources.resources
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\obj\Debug\SLM.csproj.GenerateResource.cache
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\obj\Debug\SLM.csproj.CoreCompileInputs.cache
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\obj\Debug\SLM.exe
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\obj\Debug\SLM.pdb
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\obj\Debug\SLM.csproj.CopyComplete
+C:\Users\antares\Documents\HELPING OTHER\SLM\SLM\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\bin\Debug\SLM.exe.config
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\bin\Debug\SLM.exe
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\bin\Debug\SLM.pdb
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\obj\Debug\SLM.csprojAssemblyReference.cache
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\obj\Debug\SLM.Form1.resources
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\obj\Debug\SLM.Properties.Resources.resources
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\obj\Debug\SLM.csproj.GenerateResource.cache
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\obj\Debug\SLM.csproj.CoreCompileInputs.cache
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\obj\Debug\SLM.csproj.CopyComplete
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\obj\Debug\SLM.exe
+C:\Users\antares\Documents\GARAPAN LAB MESIN ITS\SLM\SLM\obj\Debug\SLM.pdb
